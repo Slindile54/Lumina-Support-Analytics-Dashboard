@@ -61,8 +61,3 @@ Figma Design:
 
 https://twist-alter-24289629.figma.site
 
-## 💜 Vision
-
-The vision for Lumina Support is to create a clear, user-friendly support platform that helps teams turn complex technical support activities into organized, actionable insights.
-
-**Lumina Support — Bringing Clarity to Complex Tech.**
