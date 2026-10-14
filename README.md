@@ -1,7 +1,5 @@
 # 💜 Lumina Support Analytics Dashboard
 
-**Bringing Clarity to Complex Tech**
-
 Lumina Support is a customer support analytics dashboard designed to help support teams manage customer tickets, monitor support performance, and gain insights into their service operations. The project combines ticket management tools with an analytics-focused interface to make support activities easier to track, organize, and improve.
 
 Built with React and TypeScript, the dashboard features a clean, modern interface with a soft lavender and white visual theme. It is designed to support more efficient ticket handling, better visibility into support operations, and a smoother customer service experience.
