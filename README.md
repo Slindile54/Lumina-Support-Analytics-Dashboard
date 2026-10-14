@@ -57,6 +57,11 @@ Through this project, I am developing practical skills in React, TypeScript, das
 
 Lumina Support is an evolving project. Future releases will focus on improving analytics, expanding ticket management capabilities, and exploring backend integration and AI-assisted support features.
 
+## Prototype
+
+Figma Design:
+https://twist-alter-24289629.figma.site
+
 ## 💜 Vision
 
 The vision for Lumina Support is to create a clear, user-friendly support platform that helps teams turn complex technical support activities into organized, actionable insights.
