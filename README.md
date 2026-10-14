@@ -47,8 +47,6 @@ The following improvements are planned to expand the dashboard's functionality:
 - **📱 Improved Mobile Experience** — Refine the layout and navigation for mobile phones and tablets.
 - **🌐 Help Center Integration** — Connect knowledge base content with a customer-facing help center.
 
-5. Open the local URL provided by Vite in your browser.
-
 ## 🌱 What I'm Learning
 
 Through this project, I am developing practical skills in React, TypeScript, dashboard development, UI design, state management, data visualization, and building structured frontend applications. The project also gives me an opportunity to explore how analytics and AI can improve customer support workflows.
